@@ -1,5 +1,5 @@
 # Servidor DENO
-<h2 align="center">⭐️VHS "Video Club Virtual"⭐️</h2>
+<h2 align="center">⭐️VHS "Tu Video Club Virtual"⭐️</h2>
 
 # Correr el servidor
 $ deno run server.tsx
